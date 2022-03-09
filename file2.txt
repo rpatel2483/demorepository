@@ -1,1 +1,2 @@
 This is file2.txt
+added new line from server side
